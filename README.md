@@ -79,7 +79,7 @@ You can run this notebook directly in Google Colab:
 
 ##  Author
 - Avipsa Basu
-
+- Trishit Sarkar
 ---
 
 ##  Future Improvements
