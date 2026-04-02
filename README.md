@@ -64,12 +64,12 @@ The dataset consists of MRI brain images categorized into:
 ## 🔗 Open in Colab
 You can run this notebook directly in Google Colab:
 
-https://colab.research.google.com/github/YOUR_USERNAME/REPO_NAME/blob/main/YOUR_NOTEBOOK.ipynb
+(https://colab.research.google.com/drive/1rzEais107uPogGxGmiqdYlVVLM5tU0yJ?usp=sharing)
 
 ---
 
 ## 👤 Author
-- Your Name
+- Avipsa Basu
 
 ---
 
